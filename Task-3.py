@@ -1,3 +1,4 @@
+#vowels count in given sentences
 inp=input("Enter a string:")
 inp=inp.lower()
 inp=" ".join(inp)
